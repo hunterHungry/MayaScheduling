@@ -1,0 +1,19 @@
+
+hope add a switch hotkey,between <alt modle> and <normal modle>,my finger is so tired
+hope add a switch hotkey, between alt modle and normal modle,
+
+alt modle:
+   under alt modle, <alt> is holding all the time.
+
+normal modle:
+   under normal modle, <alt> need press by shelf.
+
+原文：
+   希望能增加一个快捷键，切换《alt模式》和《normal模式》
+
+alt模式：
+   在《alt模式》下，<alt>默认是一直按着
+
+normal模式：
+   在《normal模式》下，<alt>需要自己手动按下
+
