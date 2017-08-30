@@ -1,0 +1,6 @@
+- [ ] camera depth of filed(maya & arnold)
+- [ ] quick rig, rig finger
+- [ ] maya2018 don't render skydemolight
+- [ ] collide with painteffects
+- [ ] character set
+- [ ] paint effects
