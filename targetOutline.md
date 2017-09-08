@@ -1,21 +1,21 @@
-# MAYA(basic)
+# MAYA (basic)
 
 master english
 
 python
 
-# UNITY 3D(build up)
+# UNITY 3D (build up)
 
 master english
 
 unreal engine
 
-# KINECT(hobbies)
+# KINECT (hobbies)
 
 speak english
 
 leap motion
 
-# HOLOLNES(hobbies)
+# HOLOLNES (hobbies)
 
 speak english
