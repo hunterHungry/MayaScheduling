@@ -2,6 +2,8 @@
 
 master english
 
+maya character definition
+
 python
 
 # UNITY 3D (build up)

@@ -2,7 +2,7 @@ specular transmission for glass
 
 subsurface scattering for skin
 
-thin scattering for water and ice
+thin scattering for wate	r and ice
 
 a secondary specular coat, and light emission
 
